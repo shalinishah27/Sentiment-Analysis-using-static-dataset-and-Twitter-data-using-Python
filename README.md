@@ -1,4 +1,5 @@
 # Sentiment-Analysis-using-static-dataset-and-Twitter-data-using-Python
+Link of the DataSet: https://www.kaggle.com/datasets/gpreda/covid19-tweets/data
 Description:
 This project focuses on analyzing sentiments and detecting emotions from COVID-19 related tweets using Python. It aims to uncover prevailing sentiments across different demographics and geographical locations during the COVID-19 era. The objectives include categorizing emotional states in tweets, identifying trends, and providing insights for decision-makers in a post-COVID world. The project utilizes a static dataset and Twitter data, integrating sentiment analysis techniques to visualize trends and emotional distributions.
 
